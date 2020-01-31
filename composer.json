@@ -1,6 +1,6 @@
 {
-    "name": "brunonatali/tools",
-    "description": "Tools to help development.",
+    "name": "brunonatali/connection",
+    "description": "Smarter connection tool.",
     "license": "MIT",
     "require": {
 			"php": ">=7.3",
